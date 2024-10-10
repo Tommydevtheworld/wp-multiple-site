@@ -1,0 +1,14 @@
+check username
+whoami
+
+check group
+groups
+
+ allow edit from IDE(ubuntu)
+ sudo chown {username}:{group} ~/Projects/wp-multiple-site/wordpress
+
+Plugin
+Multisite Post Duplicator
+
+Setup multisite
+# link tham khao: https://cloud.z.com/vn/en/news/wordpress-multisite/
